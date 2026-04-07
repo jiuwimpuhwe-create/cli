@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gisele Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <header>
+        <nav class="navbar">
+            <button class="resume-btn">Download Resume</button>
+
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Projects</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section class="hero">
+        <div class="hero-text">
+            <h1>MS. UWIMPUHWE GISELE</h1>
+
+            <p>
+                Designing, Building And Troubleshooting Complex Electronic Systems.
+                Skilled In PCB Design And Embedded Programming.
+                And Maintenance Of Telecommunications Hardware.
+                Experienced In Planning, Designing, And Troubleshooting Telecom Networks.
+            </p>
+
+            <h3>Electronics And Telecommunication Engineer | Inventory Clerk</h3>
+
+            <button class="hire-btn">Hire Me</button>
+
+            <div class="socials">
+                <span>F</span>
+                <span>X</span>
+                <span>IG</span>
+                <span>IN</span>
+            </div>
+        </div>
+
+        <div class="hero-image">
+            <img src="profile.jpg" alt="Profile Image">
+        </div>
+    </section>
+
+    <!-- ABOUT SECTION -->
+    <section class="about">
+        <h2>About Me</h2>
+        <p>
+            I'm Gisele Uwimpuhwe passionate in Electronics and Telecommunication.
+            I enjoy designing and building systems while solving real-world problems.
+        </p>
+    </section>
+
+</body>
+</html>
